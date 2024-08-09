@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react";
 import UpgradeButton from "./Components/UpgradeButton";
 import ResetButton from "./Components/ResetButton";
-import Button20 from "./components/Button20";
-import Button50 from "./components/Button50";
-import Button100 from "./components/Button100";
+import Button20 from "./Components/Button20";
+import Button50 from "./Components/Button50";
+import Button100 from "./Components/Button100";
 import CookieImage from "./Components/CookieImage";
 
 // import Popup1000 from "./Components/Popup1000";
